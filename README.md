@@ -58,11 +58,17 @@ installed Git, restarted, ran it again. Clean.
 That's a VS Code CLI command — doesn't exist in Cursor.
 Opened the file from the sidebar instead.
 
+**`git push` terminal freeze**
+Ran `git push` and the terminal froze — no output, no error.
+Tried Q to exit, didn't work. Used Ctrl+C to cancel,
+ran `git push origin main` instead. GitHub opened an
+authentication prompt in the browser, authorized it, push went through.
+
 ## Honest Take
 
 None of these tools were familiar before this task.
 Each blocker was a lesson in reading the error carefully
 and trusting the fix is out there somewhere.
-They're familiar now — and that's the point.
+They're familiar now and that's the point.
 ```
 

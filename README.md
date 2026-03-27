@@ -64,11 +64,27 @@ Tried Q to exit, didn't work. Used Ctrl+C to cancel,
 ran `git push origin main` instead. GitHub opened an
 authentication prompt in the browser, authorized it, push went through.
 
+## On Using AI
+
+I used Claude throughout this task — for navigation, troubleshooting,
+and as a sounding board while writing this README. That said, every
+output went through a filter. I caught and corrected lines that didn't
+reflect what actually happened, pushed back on phrasing that felt off,
+and made judgment calls on tone. The words here are ones I agreed with,
+not ones I accepted by default. That distinction matters to me — and
+I'd work the same way on the job.
+
+## A Note on 100Hires
+
+I looked at the product while working through this task. An AI ATS ranked
+#1 by Forbes for startups is a strong position to be in — the market
+problem is real and the timing is right. I'm curious about how the
+marketing team thinks about content strategy for a technical B2B product
+in a crowded space. That's a problem I'd want to work on.
+
 ## Honest Take
 
 None of these tools were familiar before this task.
 Each blocker was a lesson in reading the error carefully
 and trusting the fix is out there somewhere.
 They're familiar now and that's the point.
-```
-

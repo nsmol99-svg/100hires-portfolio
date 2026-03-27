@@ -8,8 +8,6 @@ them out. This documents how I worked through it.
 
 Total active working time: ~70 minutes.
 
----
-
 ## Tools Installed
 
 **Cursor IDE** (~5 min)
@@ -33,8 +31,6 @@ Not installed. Found out the hard way when my first
 `git clone` returned "not recognized." Downloaded from
 git-scm.com, restarted Cursor, ran the command again. Worked.
 
----
-
 ## What I Did
 
 1. Installed Cursor (~5 min)
@@ -46,8 +42,6 @@ git-scm.com, restarted Cursor, ran the command again. Worked.
 7. Wrote this README (~20 min)
 
 Total: ~70 minutes of active work.
-
----
 
 ## Blockers & What I Did About Them
 
@@ -64,11 +58,11 @@ installed Git, restarted, ran it again. Clean.
 That's a VS Code CLI command — doesn't exist in Cursor.
 Opened the file from the sidebar instead.
 
----
-
 ## Honest Take
 
 None of these tools were familiar before this task.
 Each blocker was a lesson in reading the error carefully
 and trusting the fix is out there somewhere.
 They're familiar now — and that's the point.
+```
+

@@ -76,11 +76,12 @@ I'd work the same way on the job.
 
 ## A Note on 100Hires
 
-I looked at the product while working through this task. An AI ATS ranked
-#1 by Forbes for startups is a strong position to be in — the market
-problem is real and the timing is right. I'm curious about how the
-marketing team thinks about content strategy for a technical B2B product
-in a crowded space. That's a problem I'd want to work on.
+I looked at the product before writing this. What stood out was how
+much of the recruiting pipeline is centralized in one place — outreach,
+tracking, scheduling, all of it. For small teams without a dedicated
+HR department, that's a real time saver. I started thinking about how
+you'd market that to a founder who's never used an ATS before and
+doesn't know they need one yet. That's an interesting content problem.
 
 ## Honest Take
 
